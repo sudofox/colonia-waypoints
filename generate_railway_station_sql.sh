@@ -1,16 +1,5 @@
 #!/bin/bash
 
-# station_id integer PRIMARY KEY,
-# station_name text not null,
-# line_name text not null,
-# station_label text not null,
-# isHub boolean default 0 not null check (isHub in (0,1)),
-# specialIcon text default null,
-# posX int,
-# posY int,
-# posZ int,
-# UNIQUE (station_name) ON CONFLICT IGNORE
-
 for line in $(ls lines|awk -F. '{print $1}'); do
 	while read -r waypoint; do
 		waypoint=$(echo $waypoint|tr '\t' ' ') # Replace tabs with spaces
@@ -32,8 +21,7 @@ for line in $(ls lines|awk -F. '{print $1}'); do
 		posY=$(echo $waypoint|awk '{print $(NF-1)}')
 		posZ=$(echo $waypoint|awk '{print $(NF)}')
 
-echo "INSERT INTO railway_stations (station_name, line_name, station_label, isHub, posX, posY, posZ) values (\""$station_name"\",\""$line"\", \""$station_label"\","$isHub","$posX","$posY","$posZ");"
-#		echo $waypoint|awk '{print "/tp "$(NF-2)" " $(NF-1) " " $NF}'
-#		echo $waypoint|cut -d ' ' -f 1-$LABELWORDS|awk '{print "/dmarker add \""$0"\" icon:pin"}'
+		echo "INSERT INTO railway_stations (station_name, line_name, station_label, isHub, posX, posY, posZ) values (\""$station_name"\",\""$line"\", \""$station_label"\","$isHub","$posX","$posY","$posZ");"
+
 	done< lines/$line.txt
 done

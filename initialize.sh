@@ -8,3 +8,5 @@ if [ -f database/colonia.sqlite ]; then
 fi
 
 cat schema.sql | sqlite3 database/colonia.sqlite
+
+echo "[INFO] Created database!"
