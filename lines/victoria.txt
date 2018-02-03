@@ -1,0 +1,9 @@
+Amazonia -1801 70 1200
+Parrot's Cove -1632 70 1200
+Clifton -1434 70 1200
+Charing Cross (Waterloo) -1262 70 1200
+St. James's Park -863 70 1200
+Stone Valley -510 70 1200
+Narris Hold -286 56 1200
+King's Cross (Picadilly) -198 56 1200
+Shelter Island 52 56 1200

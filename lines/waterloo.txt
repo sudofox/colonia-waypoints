@@ -1,0 +1,22 @@
+Jagged Mountain	-1460	80	42
+Marmalade Junction (Jubilee)	-1391	80	210
+Mifflin Valley	-1391	80	633
+Charming Forge	-1363	80	832
+Coruscant Village	-1323	55	1083
+Charing Cross (Victoria)	-1238	55	1191
+Brixton	-1168	70	1381
+Mystic Bayou	-874	70	1539
+Hidden Valley	-524	70	1539
+Prospect Mountain	-436	70	1600
+Twin Peaks (Picadilly)	-177	58	1788
+Waters Edge	-47	70	1864
+Targarian	143	70	2341
+Lauren's Meadow	409	70	2672
+Ten Towers (Windsor)	409	70	2880
+Quiverton	723	70	2927
+Talleyrand	1161	70	3110
+Bonnet House	1367	50	3333
+Ponderosa Ranch	1605	70	3776
+Blue River	1622	65	4195
+Liverpool (Central, Kensington)	1622	77	4781
+Grove Park	1759	64	4946

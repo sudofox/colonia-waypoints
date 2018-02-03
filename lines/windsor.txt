@@ -1,0 +1,4 @@
+Mission Valley	543	70	2672
+Ten Towers (Waterloo)	404	50	2854
+Gateway Village	341	50	2854
+Cataway Village	192	50	3101

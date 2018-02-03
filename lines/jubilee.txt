@@ -1,0 +1,10 @@
+Parsons Green -1699 75 214
+Marmalade Junction (Waterloo) -1372 75 214
+Westminster -1087 75 344
+Sunset Beach -721 75 344
+Shepherd's Hill -444 75 344
+Sentinel Hill (Picadilly) -180 75 344
+Easton 57 75 344
+Ocean Chasm 120 25 344
+Tropica 657 75 344
+Coconut Bay 779 75 311

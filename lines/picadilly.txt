@@ -1,0 +1,38 @@
+Vienna -236 70 -2820
+Belmont -236 70 -1913
+Elkins -236 70 -1685
+Clarksburg (Northern) -236 70 -1244
+Morgantown -236 70 -875
+Bridgeport (District) -236 70 -583
+Great Gorge -236 70 -212
+Sky Valley -236 70 -123
+Palmetto -236 70 -2
+Boathouse -236 70 142
+Dark Oak Mountain Fortress (DOMF) -188 70 269
+Sentinel Hill (Jubilee) -188 70 336
+Faechester -188 70 494
+Russell Square (Metro) (proposed) -188 70 597
+Brown Mills -188 70 736
+Spruce Valley -188 50 888
+King's Cross (Victoria) -188 50 1196
+Riverdale Fortress -286 50 1470
+Collinwood -286 50 1639
+Twin Peaks (Waterloo) -192 50 1783
+Lands End -192 71 2114
+Norchester (Windsor) (proposed) -192 71 3358
+Chadwick Village -192 71 3829
+Atlantis (Central) -192 71 4578
+Essex Village -192 71 4987
+Morden (Kensington) -192 71 5415
+Sandpiper Village -192 71 6265
+Wellington -43 71 6928
+Desert Hills -11 71 7377
+Luteus Village 243 50 7793
+Mesa Verde 243 70 8109
+Ragnas Village 223 70 8564
+Holmrygyr 223 55 8705
+Cooper Village 75 55 8765
+Hatch End 7 70 9030
+Oasis Temple 7 70 9483
+Woodfield 7 70 10182
+Southgate (Hammersmith) 7 70 10609
