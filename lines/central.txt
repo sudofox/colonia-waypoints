@@ -1,11 +1,14 @@
-Atlantis (Picadilly) -186 50 4619
-Athenian Palace 270 50 4619
-Athens Valley 525 50 4619
-Mount Oswalt 800 50 4619
-Middleton 1358 50 4697
-Liverpool (Kensington, Waterloo) 1623 50 4760
-Wachovia 1743 50 4607
-Brompton 2060 50 4546
-Shadowbrook 2216 50 4446
-Altoona 2657 50 4468
-Casterly Rock (Kensington) 2869 50 4468
+Atlantis (Picadilly)	-186	50	4619
+Athenian Palace	270	50	4619
+Athens Valley	525	50	4619
+Mount Oswalt	800	50	4619
+Middleton	1358	50	4697
+Liverpool (Kensington, Waterloo)	1623	50	4760
+Wachovia	1743	50	4607
+Brompton	2060	50	4546
+Shadowbrook	2216	50	4446
+Altoona	2657	50	4468
+Casterly Rock (Kensington)	2869	50	4468
+Munson Village	3333	50	4318
+Scranton Village	3882	50	4318
+Ragnarath Manor	4239	50	4318
