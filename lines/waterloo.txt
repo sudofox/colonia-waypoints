@@ -8,7 +8,7 @@ Brixton	-1168	70	1381
 Mystic Bayou	-874	70	1539
 Hidden Valley	-524	70	1539
 Prospect Mountain	-436	70	1600
-Twin Peaks (Picadilly)	-177	58	1788
+Twin Peaks (Piccadilly)	-177	58	1788
 Waters Edge	-47	70	1864
 Targarian	143	70	2341
 Lauren's Meadow	409	70	2672

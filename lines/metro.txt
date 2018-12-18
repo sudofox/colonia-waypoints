@@ -1,5 +1,6 @@
 Gallows Island	-466	70	213
-Dark Oak Mountain Fortress (Picadilly)	-238	70	270
-Sentinel Hill (Picadilly, Jubilee)	-236	70	338
+Dark Oak Mountain Fortress (Piccadilly)	-238	70	270
+Sentinel Hill (Piccadilly, Jubilee)	-236	70	338
 Sangries Citadel	-300	80	548
+Russell Square (Piccadilly)	-193	60	580
 New Hope	-3	70	595

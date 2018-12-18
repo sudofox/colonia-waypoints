@@ -1,15 +1,17 @@
-Davilyn's Station	2877	85	4371
-Casterly Rock (Central)	2877	85	4512
-Arcadia	2711	70	4782
-Cresthaven	2273	70	4782
-Liverpool (Central, Waterloo)	1621	70	4782
-Oxford	1585	74	5063
-Lake Pippa	1302	74	5359
-Canterbury	671	74	5397
-Shaner Meadows	242	74	5397
-Shaner Quarry	-77	41	5397
-Morden (Picadilly)	-185	25	5397
-Sinmorphatelia	-507	25	5462
-Doctor Janpole	-801	72	5462
-Upper Enclave	-1285	72	5662
 Bear Island	-1707	80	5662
+Upper Enclave	-1285	72	5662
+Doctor Janpole	-801	72	5462
+Sinmorphatelia	-507	25	5462
+Morden (Piccadilly)	-185	25	5397
+Shaner Quarry	-77	41	5397
+Shaner Meadows	242	74	5397
+Canterbury	671	74	5397
+Lake Pippa	1302	74	5359
+Oxford	1585	74	5063
+Liverpool (Central, Waterloo)	1621	70	4782
+Cresthaven	2273	70	4782
+Arcadia	2711	70	4782
+Casterly Rock (Central)	2877	85	4512
+Toad Hollow	2877	85	4371
+Council Bluff	3029	85	4146
+Foxen Valley	3122	85	4146

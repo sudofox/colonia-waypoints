@@ -5,7 +5,8 @@ Charing Cross (Waterloo)	-1262	70	1200
 St. James's Park	-863	70	1200
 Stone Valley	-510	70	1200
 Narris Hold	-286	56	1200
-King's Cross (Picadilly)	-198	56	1200
+King's Cross (Piccadilly)	-198	56	1200
 Shelter Island	52	56	1200
 Oopalacca	684	70	1200
 Heathrow Point	1307	70	1200
+Lawson Desert	1888	70	1200

@@ -1,6 +1,7 @@
+Smugglers Bay	-1618	70	-1259
 Buckhannon	-1253	70	-1259
 Mount Zion	-1023	70	-1259
 Wheeling (District)	-731	70	-1259
 Pleasant Valley	-501	70	-1259
-Clarksburg (Picadilly)	-232	60	-1259
+Clarksburg (Piccadilly)	-232	60	-1259
 Fairmont	-33	60	-1259

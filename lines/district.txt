@@ -1,9 +1,14 @@
+Wolf Summit	-1241	70	-1975
 Grafton	-1175	90	-1906
 Philippi	-969	81	-1692
 Mount Clare	-763	81	-1462
 Wheeling (Northern)	-729	81	-1259
 Hilltop	-729	81	-1091
 Thornton Village	-507	72	-970
-Anmoore	-363	75	-652
-Bridgeport (Picadilly)	-235	75	-583
+Anmoore	-363	76	-652
+Bridgeport (Piccadilly)	-235	76	-583
 Lake Floyd	12	70	-583
+Jeremy Point	217	70	-583
+Dragon Head	894	70	-583
+Chalk Farm	997	70	-492
+Stuart Island	1446	70	-291

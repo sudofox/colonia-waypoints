@@ -1,3 +1,5 @@
+Jericho Village 	-345	70	-4487
+Falcon Ridge	-236	70	-4182
 Hawking Valley	-236	70	-3981
 Bald Mountain (Elizabeth)	-236	70	-3516
 Undertunnels	-236	70	-3346
@@ -28,6 +30,7 @@ Atlantis (Central)	-192	71	4578
 Essex Village	-192	71	4987
 Morden (Kensington)	-192	71	5415
 Sandpiper Village	-192	71	6265
+Kensal Green	-43	71	6546
 Wellington	-43	71	6928
 Desert Hills	-11	71	7377
 Luteus Village	243	50	7793

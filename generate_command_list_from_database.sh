@@ -15,3 +15,6 @@ while read -r i; do
 		echo $i|awk -F\| '{print "/dmarker add id:"$2" \""$4"\" icon:pin set:railway_stations"}'
 	fi
 done < <(sqlite3 database/colonia.sqlite "select * from railway_stations")
+
+#one more echo so that the last command gets executed when copy-pasting into bot
+echo

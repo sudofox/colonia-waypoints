@@ -3,6 +3,6 @@ Ten Towers (Waterloo)	404	50	2854
 Gateway Village	341	50	2854
 Cataway Village	192	50	3101
 Lindonburgh	30	50	3232
-Norchester (Picadilly)	-197	50	3331
+Norchester (Piccadilly)	-197	50	3331
 Tangier	-789	70	3595
 Cairo Village	-1336	70	3787
